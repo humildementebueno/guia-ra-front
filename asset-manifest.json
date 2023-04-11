@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guia-ra-front/static/css/main.073c9b0a.css",
+    "main.js": "/guia-ra-front/static/js/main.04c9441f.js",
+    "static/js/787.71df535f.chunk.js": "/guia-ra-front/static/js/787.71df535f.chunk.js",
+    "static/media/logo.svg": "/guia-ra-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/guia-ra-front/index.html",
+    "main.073c9b0a.css.map": "/guia-ra-front/static/css/main.073c9b0a.css.map",
+    "main.04c9441f.js.map": "/guia-ra-front/static/js/main.04c9441f.js.map",
+    "787.71df535f.chunk.js.map": "/guia-ra-front/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.04c9441f.js"
+  ]
+}
