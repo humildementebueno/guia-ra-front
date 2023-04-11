@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # guia-ra-front
 >>>>>>> 9522502ccaedd92af42a14db2669cf9c9407e77a
+
