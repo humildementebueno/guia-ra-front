@@ -1,5 +1,6 @@
 import React from 'react'
 import './Body.css'
+import CustomButton from '../CustomButton/CustomButton'
 const Body = () => {
   return (
     <section className='body'>
@@ -13,8 +14,10 @@ const Body = () => {
           <input type='password' id='password' placeholder='Contraseña' />
         </form>
         <div className='box-two-body'>
-          <button>INICIAR SESION</button>
-          <button>RESEÑAS</button>
+          <CustomButton
+          >INICIAR SESION</CustomButton>
+          <CustomButton
+          >RESEÑAS</CustomButton>
         </div>
       </div>
     </section>
